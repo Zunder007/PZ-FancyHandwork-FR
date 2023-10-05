@@ -1,0 +1,9 @@
+UI_FR = {
+    UI_Init_FancyHandwork = "Salut: Fancy Handwork!",
+    UI_optionscreen_binding_FancyHandwork = "Fancy Handwork",
+    UI_optionscreen_binding_FHModifier = "Touche de modification",
+    UI_optionscreen_binding_FHSwapKey = "Échanger des éléments (juste la touche)",
+    UI_optionscreen_binding_FHSwapKeyMod = "Échanger des éléments (mod + touche)",
+    UI_optionscreen_binding_FHDebugKey = "Touche de débogage (utilisée uniquement en mode débogage)",
+    UI_ModOptions_FHfixLHandRotation = "Appliquer les animations"
+}

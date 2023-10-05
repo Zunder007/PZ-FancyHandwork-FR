@@ -1,0 +1,29 @@
+Sandbox_FR = {
+    Sandbox_FancyHandwork = "Fancy Handwork",
+
+    Sandbox_FancyHandwork_ExperiencedAim = "Niveau de changement de l'animation de la visée des armes à feu",
+    Sandbox_FancyHandwork_ExperiencedAim_tooltip = "Niveau d'arme à feu du joueur pour passer à l'animation de visée tactique. <LINE> Réglez sur 0 pour toujours l'utiliser. Réglé sur 11 pour jamais.",
+           
+    Sandbox_FancyHandwork_DisableTurn = "Passage forcé au comportement d'objet",
+    Sandbox_FancyHandwork_DisableTurn_tooltip = "Contrôle le moment où votre personnage est obligé de se tourner vers des objets lors de l'exécution de l'interaction monde.",
+
+    Sandbox_FancyHandwork_DT_option1 = "Ne faites jamais de virage forcé",
+    Sandbox_FancyHandwork_DT_option2 = "Effectuer un virage forcé après un délai",
+    Sandbox_FancyHandwork_DT_option3 = "Faites toujours un virage forcé",
+
+    Sandbox_FancyHandwork_TurnDelaySec = "Délai de virage forcé",
+    Sandbox_FancyHandwork_TurnDelaySec_tooltip = "Lorsque le personnage ne bouge pas, il se tournera pour faire face à un objet avec lequel il interagit après ce nombre de secondes. <LINE> Nécessite que le délai de rotation soit activé.",
+
+    Sandbox_FancyHandwork_TurnBehavior = "Comportement de l'animation d'action arrière",
+    Sandbox_FancyHandwork_TurnBehavior_tooltip = "Choisissez la fréquence à laquelle les personnages jouent les animations arrière au lieu de se tourner. <LINE> Notes: Le personnage se tournera toujours vers les objets qui n'ont pas d'animation arrière à moins que le virage forcé ne soit désactivé. <LINE> Le délai de virage ou les virages désactivés doivent être sélectionnés pour afficher les animations arrière. 'Faites toujours un virage forcé' empêche les animations arrière.",
+
+    Sandbox_FancyHandwork_TB_option1 = "Ne jamais faire d'animations arrière",
+    Sandbox_FancyHandwork_TB_option2 = "Faites des animations arrière jusqu'au délai de virage",
+    Sandbox_FancyHandwork_TB_option3 = "Faites toujours des animations arrière",
+
+    Sandbox_FancyHandwork_HideDoorProgressBar = "Masquer la barre de progression de l'action de la porte du véhicule",
+    Sandbox_FancyHandwork_HideDoorProgressBar_tooltip = "Masque la barre de progression lorsqu'un personnage ouvre ou ferme une porte, et lorsqu'il entre ou sort d'un véhicule.",
+
+    Sandbox_FancyHandwork_HideVehicleWalkProgressBar = "Masquer la barre de progression de l'action 'Marcher vers' le véhicule",
+    Sandbox_FancyHandwork_HideVehicleWalkProgressBar_tooltip = "Masque la barre de progression lorsqu'un personnage se dirige vers un emplacement pour interagir avec un véhicule.",
+}
